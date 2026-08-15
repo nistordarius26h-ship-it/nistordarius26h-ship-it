@@ -1,4 +1,4 @@
-<h2 data-importer="text" align="center">Hi 👋! My name is Darius and I'm a ..., from Brasov Romania</h2>
+<h2 data-importer="text" align="center">Hi 👋! My name is Darius and I'm a CS Student, from Brasov Romania</h2>
 
 ###
 
