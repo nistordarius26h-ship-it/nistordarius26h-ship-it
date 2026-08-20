@@ -19,7 +19,7 @@
 
 Hi 👋 I'm **Darius**, a pre-university student from Brașov, Romania. I build things: robots, custom PCBs, microchip-driven electronics, 3D-designed/CAD parts and much more. I use self learned and self hosted AI tools for coding integration. - Backed by certificates -
 
-Currently looking for internship / part-time opportunities compatible with school hours, targeting engineering companies in the Brașov area.
+Currently looking for internship / part-time opportunities compatible with school hours, targeting engineering companies.
 
 ---
 
