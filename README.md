@@ -26,6 +26,10 @@ Currently looking for internship / part-time opportunities compatible with schoo
 ## Tools
 
 <p>
+  <img src="https://cdn.simpleicons.org/dassaultsystemes/005386" height="30" alt="solidworks (dassault systemes) logo" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/autodesk/000000" height="30" alt="autodesk fusion 360 logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo" />
@@ -52,19 +56,9 @@ Currently looking for internship / part-time opportunities compatible with schoo
   <img width="12" />
   <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="30" alt="cloudflare logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="30" alt="nodejs logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="30" alt="numpy logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/npm/CB3837" height="30" alt="npm logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="30" alt="opencv logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dassaultsystemes/005386" height="30" alt="solidworks (dassault systemes) logo" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/autodesk/000000" height="30" alt="autodesk fusion 360 logo" />
 </p>
 
 ---
