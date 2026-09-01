@@ -71,10 +71,6 @@ Currently looking for internship / part-time opportunities compatible with schoo
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nistordarius26h-ship-it/nistordarius26h-ship-it/pacman-output/breakout-contribution-graph.svg?game=breakout">
 </picture>
 
-<p align="center">
-  <img width="900" src="https://github-readme-activity-graph.vercel.app/graph?username=nistordarius26h-ship-it&theme=tokyo-night&hide_border=true&area=true&custom_title=Build%20Activity" alt="GitHub activity graph" />
-</p>
-
 ---
 
 ## Connect
